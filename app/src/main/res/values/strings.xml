@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySpa</string>
+    <string name="app_user">Usuario</string>
+    <string name="app_pass">Contraseña</string>
+</resources>
